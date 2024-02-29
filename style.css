@@ -8,6 +8,18 @@ a {
 
 }
 .cotnainer {
-    width: 80%;
+    width: 1140px;
     margin: 0 auto;
+}
+#header{
+padding: 30px 0;
+background: blueviolet;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header a{
+    color: white;
 }
